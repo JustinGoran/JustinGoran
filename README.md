@@ -10,6 +10,8 @@ Despite his incredible success, Justin never lost sight of his passion for techn
 
 Today, Justin is known as a visionary and a pioneer in the tech world, and his company continues to thrive and innovate. He is a shining example of what can be achieved when a brilliant young mind is given the opportunity to pursue its dreams.
 
+---
+
 As a young boy, I had always been fascinated by science and technology. I spent hours tinkering with gadgets and building elaborate contraptions in my backyard. My parents encouraged my passion and enrolled me in a prestigious science and math program at my local high school.
 
 As I excelled in my studies, I set my sights on attending the Massachusetts Institute of Technology (MIT), one of the most prestigious universities in the world for science and technology. I worked tirelessly to maintain top grades and build a strong portfolio of extracurricular activities, but the road to MIT was not without its challenges.
